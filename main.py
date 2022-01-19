@@ -4,7 +4,7 @@ import requests, colorama, random
 from colorama import Fore
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-webhook = DiscordWebhook(url="https://github.com/Dhirk07/Roblox-Username-generator")#replace your webhook
+webhook = DiscordWebhook(url="https://discord.com/api/webhooks/933389908767293481/cLTcO9tl9afIRYrh7rzoflDYzIXsK_Eft_2XTiAFX3XwwJCx2gV6jNd-g9ZahwSULwgz")#replace your webhook
 val = ('[Click Me](https://discord.gg/VK9dg6qFWw)')
 
 def namegen():
